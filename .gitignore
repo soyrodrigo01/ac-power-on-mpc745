@@ -1,0 +1,4 @@
+pmio_read
+pmio_write
+*.o
+/tmp/
